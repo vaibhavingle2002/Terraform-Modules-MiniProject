@@ -1,0 +1,7 @@
+vpc_cidr_block    = "192.168.0.0/16"
+subnet_az         = "ap-south-1a"
+subnet_cidr_block = "192.168.1.0/24"
+ami_id            = "ami-051a31ab2f4d498f5"
+instance_type     = "t3.micro"
+instance_name     = "Vaibhav-Server"
+bucket_name       = "my-demo-module-bkt"
